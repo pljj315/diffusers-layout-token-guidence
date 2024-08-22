@@ -1,0 +1,6 @@
+diffusers                 0.30.0
+Pillow                    9.5.0
+transformers              4.36.2
+torchvision               0.17.0
+torch                     2.2.0
+torchaudio                2.2.0
